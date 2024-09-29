@@ -1,4 +1,4 @@
-# Program Pertama Pemrograman Visual (GUI) | UNIKOM
+# Program Pertama GUI - Pemrograman Visual (GUI) | UNIKOM
 
 **NIM: 10118249**
 
